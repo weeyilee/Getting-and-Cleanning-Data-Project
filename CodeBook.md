@@ -70,7 +70,7 @@ tBodyGyroJerkMean
 The complete list of variables of each feature vector is available in 'features.txt'
 
 
-## The data
+## The data set
 The dataset includes the following files:
 
 * 'README.txt'
@@ -99,4 +99,72 @@ The following files are available for the train and test data. Their description
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-
+## the final tidy data
+* Subject
+* Activities
+* TimeBodyAccelerometer-Mean-X
+* TimeBodyAccelerometer-Mean-Y
+* TimeBodyAccelerometer-Mean-Z
+* TimeBodyAccelerometer-SD-X
+* TimeBodyAccelerometer-SD-Y
+* TimeBodyAccelerometer-SD-Z
+* TimeGravityAccelerometer-Mean-X
+* TimeGravityAccelerometer-Mean-Y
+* TimeGravityAccelerometer-Mean-Z
+* TimeGravityAccelerometer-SD-X
+* TimeGravityAccelerometer-SD-Y
+* TimeGravityAccelerometer-SD-Z
+* TimeBodyAccelerometerJerk-Mean-X
+* TimeBodyAccelerometerJerk-Mean-Y
+* TimeBodyAccelerometerJerk-Mean-Z
+* TimeBodyAccelerometerJerk-SD-X
+* TimeBodyAccelerometerJerk-SD-Y
+* TimeBodyAccelerometerJerk-SD-Z
+* TimeBodyGyroscope-Mean-X
+* TimeBodyGyroscope-Mean-Y
+* TimeBodyGyroscope-Mean-Z
+* TimeBodyGyroscope-SD-X
+* TimeBodyGyroscope-SD-Y
+* TimeBodyGyroscope-SD-Z
+* TimeBodyGyroscopeJerk-Mean-X
+* TimeBodyGyroscopeJerk-Mean-Y
+* TimeBodyGyroscopeJerk-Mean-Z
+* TimeBodyGyroscopeJerk-SD-X
+* TimeBodyGyroscopeJerk-SD-Y
+* TimeBodyGyroscopeJerk-SD-Z
+* TimeBodyAccelerometerMagnitude-Mean
+* TimeBodyAccelerometerMagnitude-SD
+* TimeGravityAccelerometerMagnitude-Mean
+* TimeGravityAccelerometerMagnitude-SD
+* TimeBodyAccelerometerJerkMagnitude-Mean
+* TimeBodyAccelerometerJerkMagnitude-SD
+* TimeBodyGyroscopeMagnitude-Mean
+* TimeBodyGyroscopeMagnitude-SD
+* TimeBodyGyroscopeJerkMagnitude-Mean
+* TimeBodyGyroscopeJerkMagnitude-SD
+* FrequencyBodyAccelerometer-Mean-X
+* FrequencyBodyAccelerometer-Mean-Y
+* FrequencyBodyAccelerometer-Mean-Z
+* FrequencyBodyAccelerometer-SD-X
+* FrequencyBodyAccelerometer-SD-Y
+* FrequencyBodyAccelerometer-SD-Z
+* FrequencyBodyAccelerometerJerk-Mean-X
+* FrequencyBodyAccelerometerJerk-Mean-Y
+* FrequencyBodyAccelerometerJerk-Mean-Z
+* FrequencyBodyAccelerometerJerk-SD-X
+* FrequencyBodyAccelerometerJerk-SD-Y
+* FrequencyBodyAccelerometerJerk-SD-Z
+* FrequencyBodyGyroscope-Mean-X
+* FrequencyBodyGyroscope-Mean-Y
+* FrequencyBodyGyroscope-Mean-Z
+* FrequencyBodyGyroscope-SD-X
+* FrequencyBodyGyroscope-SD-Y
+* FrequencyBodyGyroscope-SD-Z
+* FrequencyBodyAccelerometerMagnitude-Mean
+* FrequencyBodyAccelerometerMagnitude-SD
+* FrequencyBodyAccelerometerJerkMagnitude-Mean
+* FrequencyBodyAccelerometerJerkMagnitude-SD
+* FrequencyBodyGyroscopeMagnitude-Mean
+* FrequencyBodyGyroscopeMagnitude-SD
+* FrequencyBodyGyroscopeJerkMagnitude-Mean
+* FrequencyBodyGyroscopeJerkMagnitude-SD
